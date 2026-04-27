@@ -1,0 +1,14 @@
+ipykernel
+kaggle
+pandas
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+xgboost
+imbalanced-learn
+lightgbm
+streamlit
+streamlit-option-menu
+plotly
+Pillow
